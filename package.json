@@ -25,7 +25,7 @@
   "dependencies": {
     "request": "^2.69.0",
     "util": "^0.10.3",
-    "xml2js": "0.4.x",
+    "xml2js": "0.5.x",
     "polling-to-event": "2.1.0"
   }
 }
